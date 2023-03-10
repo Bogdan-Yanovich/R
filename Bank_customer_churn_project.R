@@ -1,4 +1,4 @@
-
+# A project that has been done by our team to pass the Induced Decision Rules subject at SGH Warsaw School of Economics
 # Biblioteki --------------------------------------------------------------
 list_of_packages <- c("readr" # wczytywanie danych
                       ,"dplyr" # manipulacja danymi
